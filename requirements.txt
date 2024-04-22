@@ -8,3 +8,8 @@ pygame
 whisper
 SpeechRecognition
 google.cloud
+flask
+langchain-community
+pyaudio
+langchain-openai
+setuptools
